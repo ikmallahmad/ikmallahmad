@@ -12,6 +12,7 @@
 - 🌱 Learning **CI/CD Pipelines, Cloud & DevOps**
 - 🤝 Open to collaborating on **Open Source Projects**
 - 📍 Based in **Malaysia**
+- 🏛️ Studies at **Universiti Tun Hussein Onn Malaysia (UTHM), Bachelor In Multimedia Computing**
 - 📫 Reach me at **ikmalahmadworkspace@gmail.com**
 - 🌐 Portfolio: [speedygfx.portfoliobox.net](https://speedygfx.portfoliobox.net/)
 
