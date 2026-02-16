@@ -14,7 +14,7 @@
 - 📍 Based in **Malaysia**
 - 🏛️ Studies at **Universiti Tun Hussein Onn Malaysia (UTHM), Bachelor In Multimedia Computing**
 - 📫 Reach me at **ikmalahmadworkspace@gmail.com**
-- 🌐 Portfolio: [speedygfx.portfoliobox.net](https://speedygfx.portfoliobox.net/)
+- 🌐 Portfolio: [ikmallahmad.tech](https://ikmallahmad.tech)
 
 ---
 
@@ -54,15 +54,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikmallahmad&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikmallahmad&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikmallahmad&theme=tokyonight" />
-</p>
