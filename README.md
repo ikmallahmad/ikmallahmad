@@ -34,7 +34,7 @@
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt,angular,bootstrap,sass,vuetify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,angular,bootstrap,sass,vuetify" />
 </p>
 
 **Backend & Database**
