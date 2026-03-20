@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 -  Currently building **Full Stack Internal Systems** for **PMCare & VitaPro**
 -  Learning **CI/CD Pipelines, Cloud & DevOps**
 -  Open to collaborating on **Open Source Projects**
