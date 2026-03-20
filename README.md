@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ikmal</h1>
+<h1 align="center">Hi , I'm Muhammad Ikmal</h1>
 <h3 align="center">Full Stack Developer • Problem Solver • Continuous Learner</h3>
 
 <p align="center">
@@ -8,17 +8,17 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building **Full Stack Internal Systems** for **PMCare & VitaPro**
-- 🌱 Learning **CI/CD Pipelines, Cloud & DevOps**
-- 🤝 Open to collaborating on **Open Source Projects**
-- 📍 Based in **Malaysia**
-- 🏛️ Studies at **Universiti Tun Hussein Onn Malaysia (UTHM), Bachelor In Multimedia Computing**
-- 📫 Reach me at **ikmalahmadworkspace@gmail.com**
-- 🌐 Portfolio: [ikmallahmad.tech](https://ikmallahmad.tech)
+-  Currently building **Full Stack Internal Systems** for **PMCare & VitaPro**
+-  Learning **CI/CD Pipelines, Cloud & DevOps**
+-  Open to collaborating on **Open Source Projects**
+-  Based in **Malaysia**
+-  Studies at **Universiti Tun Hussein Onn Malaysia (UTHM), Bachelor In Multimedia Computing**
+-  Reach me at **ikmalahmadworkspace@gmail.com**
+-  Portfolio: [ikmallahmad.tech](https://ikmallahmad.tech)
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://github.com/ikmallahmad" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**
 <p>
