@@ -8,7 +8,7 @@
 ---
 
 ### About Me
--  Currently building **Full Stack Internal Systems** for **PMCare & VitaPro**
+-  Currently building **Full Stack Internal Systems** for **PMCare**
 -  Learning **CI/CD Pipelines, Cloud & DevOps**
 -  Open to collaborating on **Open Source Projects**
 -  Based in **Malaysia**
